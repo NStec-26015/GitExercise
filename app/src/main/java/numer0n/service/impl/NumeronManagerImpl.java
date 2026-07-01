@@ -85,7 +85,7 @@ public class NumeronManagerImpl implements NumeronManager {
         // ヌメロンの数字を生成
         this.generateNumeronNumber();
 
-        System.out.println("Numeron Number: " + this.numeronNumber);
+        //System.out.println("Numeron Number: " + this.numeronNumber);
     }
 
     /**
